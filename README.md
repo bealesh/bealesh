@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bealesh
-- 👀 I’m interested in: Python, Go, Elixir, Typescript, Kubernetes, AWS, GCP
-- 🌱 I’m currently learning: React (and FE in general)
+- 👀 I’m interested in: Python, Go, Typescript, Kubernetes, AWS, GCP, FluxCD, Prometheus
+- 🌱 I’m currently learning: to be better at Go and Python!
 - 💞️ I’m looking to collaborate on: Open source projects that help save the world!
 - 📫 How to reach me: david (at) beale.sh
 
